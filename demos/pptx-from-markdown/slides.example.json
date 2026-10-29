@@ -1,0 +1,11 @@
+{
+  "title": "FreeDailyPro API for Agent Builders",
+  "themeColor": "#4FD8C4",
+  "slides": [
+    {"title": "Problem", "bullets": ["Agents need real file tools", "Rolling your own PDF/PPTX stack is costly", "Privacy-sensitive docs should not linger on disk"]},
+    {"title": "What FreeDailyPro exposes", "bullets": ["215+ REST endpoints", "211+ MCP tools", "One key, one shared quota"]},
+    {"title": "Plans", "bullets": ["Trial 20k calls/mo", "Premium $24 / Ultra $69 / Mega $129", "No card for trial"]},
+    {"title": "Honest gaps", "bullets": ["No OCR yet", "No Word/Excel conversion", "No live camera/mic"]},
+    {"title": "Call to action", "bullets": ["https://www.freedailypro.com/developers", "MCP: https://api.freedailypro.com/mcp", "llms.txt for agents"]}
+  ]
+}
